@@ -3,7 +3,7 @@
 
 In this episode, Thomas Steiner interviews Luke Wagner, who works at Fastly. You’ll hear them chat about Luke’s time at Mozilla, how he remembers the Wasm launch, the WebAssembly System Interface (WASI) and the component model, his thoughts on where WebAssembly’s future lies, and much more. 
 
-```bash
+
 Chapters:
 0:00 - Intro 
 4:27 - The Wasm polyfill-prototype-1 
@@ -61,4 +61,3 @@ Luke Wagner on X → https://goo.gle/3KWz40U
 
 Watch more WasmAssembly → https://goo.gle/WasmAssembly
 Subscribe to Chrome for Developers → https://goo.gle/ChromeDevs
-```
