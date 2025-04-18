@@ -8,3 +8,4 @@
 - [WebAssembly: A new development paradigm for the web](https://www.youtube.com/watch?v=RcHER-3gFXI) - Chrome Developers
 - 
 ## Earlier 
+- [An introduction to WebAssembly](https://www.youtube.com/watch?v=3sU557ZKjUs) - Guy Royce RedisLabs 
