@@ -1,7 +1,7 @@
 # WASM youtube (by date?)
 
 ## 2025
-
+- [Real World WASI Components by Colin Murphy @ Wasm I/O 2025](https://www.youtube.com/watch?v=QebWw3_K1_4)
 
 ## 2024
 - [WebAssembly is taking over!](https://www.youtube.com/watch?v=er_WkZLX7DY) - Doug Anderson
