@@ -2,6 +2,7 @@
 
 ## 2025
 - [Real World WASI Components by Colin Murphy @ Wasm I/O 2025](https://www.youtube.com/watch?v=QebWw3_K1_4)
+- [Unlocking Observability in WebAssembly with OpenTelemetry by Caleb Schoepp @ Wasm I/O 2025](https://www.youtube.com/watch?v=iKh8YlJh618) - how OpenTelemetry integrates with WebAssembly
 - [The Browser is the Computer! by Daniel Lopez & Angel De Miguel @ Wasm I/O 2025](https://www.youtube.com/watch?v=T5cT3U2afC0) - run full-stack development environments completely inside your browser
 - [Flutter, Dart, and WASM-GC: A new model for Web applications by Kevin Moore @ Wasm I/O 2023](https://www.youtube.com/watch?v=Nkjc9r0WDNo) - Support for garbage collection within WebAssembly (WASM-GC) will bring a host of new languages and frameworks to the web app space. Learn how the Dart and Flutter teams at Google are building on WASM-GC (among other upcoming standards) to bring richer, faster, more consistent applications to the web
 
