@@ -17,3 +17,4 @@ We’ll share how we optimized our open-source Rust-based WebAssembly components
 ## Earlier 
 - [An introduction to WebAssembly](https://www.youtube.com/watch?v=3sU557ZKjUs) - Guy Royce RedisLabs
 - [HELLO WEBASSEMBLY - A BEGINNERS TUTORIAL TO CODING WEBASSEMBLY (WASM) BY HAND](https://www.youtube.com/watch?v=ojYEfRye6aE)
+- [Tutorial Hands on with WebAssembly Microservices & Kubernetes- J Zhou D Justice K Goldenring R Matei](https://www.youtube.com/watch?v=LdsyS2cedOw) - This tutorial talk is meant to help you get started with WebAssembly (Wasm) on Kubernetes
