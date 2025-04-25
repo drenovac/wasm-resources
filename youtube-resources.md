@@ -17,6 +17,7 @@ We’ll share how we optimized our open-source Rust-based WebAssembly components
 ## Earlier 
 - [An introduction to WebAssembly](https://www.youtube.com/watch?v=3sU557ZKjUs) - Guy Royce RedisLabs
 - [Data Across the Wasm Boundary By Dan Phillips](https://www.youtube.com/watch?v=2GSlCFCuN8U) - Devoxx 2023 presentation
+- [Taking WASI-Cloud-Core for a Spin - Jiaxiao Zhou, Microsoft & Joel Dice, Fermyon Technologies](https://www.youtube.com/watch?v=W-ubCAMAJQc) - WASI-Cloud-Core is a WebAssembly Systems Interface (WASI) proposal aimed to provide a generic way for WASI applications to interact with service including key-value storage, pub/sub, sql databases, etc, regardless of platforms they are running on
 - [HELLO WEBASSEMBLY - A BEGINNERS TUTORIAL TO CODING WEBASSEMBLY (WASM) BY HAND](https://www.youtube.com/watch?v=ojYEfRye6aE)
 - [Tutorial Hands on with WebAssembly Microservices & Kubernetes- J Zhou D Justice K Goldenring R Matei](https://www.youtube.com/watch?v=LdsyS2cedOw) - This tutorial talk is meant to help you get started with WebAssembly (Wasm) on Kubernetes
 - [Zig loves WASI! - Jakub Konka](https://www.youtube.com/watch?v=g_Degmqfo4Q) - Intro zig a front-end lang to wasm
