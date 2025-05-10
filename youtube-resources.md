@@ -10,6 +10,11 @@
 - [From Cloud to Edge computing - Unleashing the power of WebAssembly at the edge by Alex Casalboni](https://www.youtube.com/watch?v=WEWMVFQjHcw) - In this session, we’ll dive deep into how WebAssembly enables lightweight, secure, and fast compute workloads at the edge, with an emphasis on real-world use cases that leverage Rust’s unique strengths for predictable performance and memory safety, while coexisting with cloud resources. We’ll showcase the architectural tradeoff and technical challenges we face at Edgee such as data sovereignty and security constraints to power features such as data collection and dynamic A/B testing.
 We’ll share how we optimized our open-source Rust-based WebAssembly components for edge deployment. Join us to discover how to build architectures that seamlessly blend cloud and edge, unlocking a new level of responsiveness and efficiency.
 
+## 2025 - user Group Conversations (youtube)
+ - [State of WebAssembly 2025 | Ep 15 | WebAssembly Unleashed](https://www.youtube.com/watch?v=s210eA2N3bE) - very interesting conversation covering history of WASM and some comments on current work in pipeline
+ - []()
+
+
 ## 2024
 - [WebAssembly is taking over!](https://www.youtube.com/watch?v=er_WkZLX7DY) - Doug Anderson
 - [WebAssembly: A new development paradigm for the web](https://www.youtube.com/watch?v=RcHER-3gFXI) - Chrome Developers
